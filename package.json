@@ -1,6 +1,6 @@
 {
   "name": "@qutics/http-proxy-stream",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "engines": {
     "node": ">=6.1.0"
   },
